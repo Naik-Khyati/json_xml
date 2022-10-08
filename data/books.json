@@ -1,4 +1,5 @@
 {
+"book-table": {
 "books": [
   {
     "isbn": "195153448",
@@ -36,4 +37,5 @@
     "pub_comp": "Aurora Metro books"
   }
 ]
+}
 }
