@@ -1,0 +1,39 @@
+{
+"books": [
+  {
+    "isbn": "195153448",
+    "book_title": "Classical Mythology",
+    "book_author": "Mark Morford",
+    "pub_year": "2002",
+    "pub_comp": "Zertex Media"
+  },
+  {
+    "isbn": "2005018",
+    "book_title": "Clara Callan",
+    "book_author": "Richard Bruce Wright; Rich Shapero",
+    "pub_year": "2001",
+    "pub_comp": "Wye Publishing"
+  },
+  {
+    "isbn": "60973129",
+    "book_title": "Decision in Normandy",
+    "book_author": "Carlo D'Este",
+    "pub_year": "1991",
+    "pub_comp": "Stirling Publishing"
+  },
+  {
+    "isbn": "399135782",
+    "book_title": "The Kitchen Gods Wife",
+    "book_author": "Amy Tan",
+    "pub_year": "1991",
+    "pub_comp": "Packt Publishing"
+  },
+  {
+    "isbn": "61076031",
+    "book_title": "Switching Goals",
+    "book_author": "Mary-Kate; Ashley Olsen",
+    "pub_year": "2000",
+    "pub_comp": "Aurora Metro books"
+  }
+]
+}
