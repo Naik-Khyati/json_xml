@@ -2,43 +2,43 @@
 <books>
 
 <book>
-<isbn>	195153448	</isbn>
-<book_title>	Classical Mythology	</book_title>
-<book_author>	Mark Morford	</book_author>
-<pub_year>	2002	</pub_year>
-<pub_comp>	Zertex Media	</pub_comp>
+<isbn>195153448</isbn>
+<book_title>Classical Mythology</book_title>
+<book_author>Mark Morford</book_author>
+<pub_year>2002</pub_year>
+<pub_comp>Zertex Media</pub_comp>
 </book>
 
 <book>
-<isbn>	2005018	</isbn>
-<book_title>	Clara Callan	</book_title>
-<book_author>	Richard Bruce Wright; Rich Shapero	</book_author>
-<pub_year>	2001	</pub_year>
-<pub_comp>	Wye Publishing	</pub_comp>
+<isbn>2005018</isbn>
+<book_title>Clara Callan</book_title>
+<book_author>Richard Bruce Wright; Rich Shapero</book_author>
+<pub_year>2001</pub_year>
+<pub_comp>Wye Publishing</pub_comp>
 </book>
 
 <book>
-<isbn>	60973129	</isbn>
-<book_title>	Decision in Normandy	</book_title>
-<book_author>	Carlo D'Este	</book_author>
-<pub_year>	1991	</pub_year>
-<pub_comp>	Stirling Publishing	</pub_comp>
+<isbn>60973129</isbn>
+<book_title>Decision in Normandy</book_title>
+<book_author>Carlo D'Este</book_author>
+<pub_year>1991</pub_year>
+<pub_comp>Stirling Publishing</pub_comp>
 </book>
 
 <book>
-<isbn>	399135782	</isbn>
-<book_title>	The Kitchen Gods Wife	</book_title>
-<book_author>	Amy Tan	</book_author>
-<pub_year>	1991	</pub_year>
-<pub_comp>	Packt Publishing	</pub_comp>
+<isbn>399135782</isbn>
+<book_title>The Kitchen Gods Wife	</book_title>
+<book_author>Amy Tan	</book_author>
+<pub_year>1991	</pub_year>
+<pub_comp>Packt Publishing	</pub_comp>
 </book>
 
 <book>
-<isbn>	61076031	</isbn>
-<book_title>	Switching Goals	</book_title>
-<book_author>	Mary-Kate; Ashley Olsen	</book_author>
-<pub_year>	2000	</pub_year>
-<pub_comp>	Aurora Metro books	</pub_comp>
+<isbn>61076031	</isbn>
+<book_title>Switching Goals</book_title>
+<book_author>Mary-Kate; Ashley Olsen</book_author>
+<pub_year>2000</pub_year>
+<pub_comp>Aurora Metro books</pub_comp>
 </book>
 
 </books>
